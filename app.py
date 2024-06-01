@@ -2,7 +2,6 @@ from flask import Flask,render_template,url_for,request,jsonify
 from flask_cors import cross_origin
 import pandas as pd
 import numpy as np
-import datetime
 import pickle
 
 app = Flask(__name__, template_folder="template")
