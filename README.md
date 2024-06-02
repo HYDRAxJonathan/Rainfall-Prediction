@@ -121,3 +121,7 @@ To use this project:
 4. **Access the web app**:
    ```sh
    Open your web browser and go to http://localhost:5000
+
+## Contributors
+- Rutik Jayram Torambe
+- Be a contributor
