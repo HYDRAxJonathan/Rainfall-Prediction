@@ -18,7 +18,8 @@ This project explores the use of AI/ML techniques in rainfall prediction by anal
 ## Dataset
 
 The dataset used is the "Weather in Australia" dataset from Kaggle, which includes historical weather data from 2007 to 2017. The dataset comprises 1,45,460 records with 24 features.
-
+- Dataset: [Weather in Australia](https://www.kaggle.com/datasets/gauravduttakiit/weather-in-aus)
+  
 **Key Features:**
 
 - Date
