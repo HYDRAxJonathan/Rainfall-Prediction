@@ -101,3 +101,15 @@ To use this project:
    ```sh
    git clone https://github.com/yourusername/rainfall-prediction.git
    cd rainfall-prediction
+
+2. **Install dependencies:**:
+   ```sh
+   pip install -r requirements.txt
+
+3. **Run the Flask app**:
+   ```sh
+   python app.py
+
+4. **Access the web app**:
+   ```sh
+   Open your web browser and go to http://localhost:5000
