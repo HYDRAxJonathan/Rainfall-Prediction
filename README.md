@@ -4,6 +4,8 @@
 
 Rainfall prediction is a crucial area of research in meteorology and agriculture. Accurate rainfall predictions aid in better planning and decision-making for activities such as crop cultivation, disaster management, and water resource management. This project utilizes AI and Machine Learning (ML) techniques to develop a precise and reliable rainfall prediction model using historical weather data.
 
+- Demo: [Predict Weather](https://rainfall-prediction-6wjd.onrender.com/)
+
 ## Project Overview
 
 This project explores the use of AI/ML techniques in rainfall prediction by analyzing historical weather data from Australia. The primary objective is to create a model that can predict whether it will rain the next day (RainTomorrow) based on various weather parameters.
@@ -97,7 +99,7 @@ CatBoost is a supervised ML method using decision trees for classification and r
 ## Deployment
 
 The model is deployed using Flask on Render.
-
+- Demo: [Predict Weather](https://rainfall-prediction-6wjd.onrender.com/)
 ## Usage
 
 To use this project:
