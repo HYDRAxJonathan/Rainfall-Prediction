@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Demo](https://rainfall-prediction-6wjd.onrender.com/)
+[DEMO](https://rainfall-prediction-6wjd.onrender.com/)
 
 Rainfall prediction is a crucial area of research in meteorology and agriculture. Accurate rainfall predictions aid in better planning and decision-making for activities such as crop cultivation, disaster management, and water resource management. This project utilizes AI and Machine Learning (ML) techniques to develop a precise and reliable rainfall prediction model using historical weather data.
 
