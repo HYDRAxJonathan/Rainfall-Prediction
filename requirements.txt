@@ -1,9 +1,9 @@
+flask
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 catboost
-flask
 flask-cors
 joblib
