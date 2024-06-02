@@ -61,7 +61,7 @@ The dataset used is the "Weather in Australia" dataset from Kaggle, which includ
 
 3. **Model Training**:
    - Use SMOTE for balanced data.
-   - Select CatBoost classifier for its high accuracy (86%).
+   - Select CatBoost classifier for its high accuracy (85.63%).
    - Evaluate model using accuracy score, confusion matrix, classification report, and ROC AUC score.
 
 4. **Model Saving and Deployment**:
@@ -70,14 +70,18 @@ The dataset used is the "Weather in Australia" dataset from Kaggle, which includ
 
 ## Results
 
-| Method                 | Accuracy Score | ROC AUC Score |
-|------------------------|----------------|----------------|
-| CatBoost classifier    | 0.8640         | 0.7489         |
-| Random forest classifier | 0.7565         | 0.8455         |
-| Logistic regression    | 0.7648         | 0.7743         |
-| Gaussian naïve bayes   | 0.7677         | 0.7538         |
-| K-Neighbor classifier  | 0.7428         | 0.7538         |
-| XGBoost classifier     | 0.7429         | 0.8562         |
+| Rank | Classifier                     | Accuracy | Precision | Recall | ROC AUC Score |
+|------|--------------------------------|----------|-----------|--------|---------------|
+| 1    | Cat-Boost Classifier           | 0.8563   | 0.7596    | 0.5252 | 0.7386        |
+| 2    | Bagging Classifier             | 0.8540   | 0.7587    | 0.5111 | 0.7321        |
+| 3    | Random Forest Classifier       | 0.8537   | 0.7704    | 0.4950 | 0.7262        |
+| 4    | K-Neighbors Classifier         | 0.8399   | 0.7089    | 0.4850 | 0.7137        |
+| 5    | Ada Boost Classifier           | 0.8381   | 0.7152    | 0.4614 | 0.7042        |
+| 6    | Linear Discriminant Analysis   | 0.8366   | 0.6904    | 0.4916 | 0.7140        |
+| 7    | Logistic Regression Classifier | 0.8344   | 0.7017    | 0.4542 | 0.6992        |
+| 8    | Decision Tree Classifier       | 0.8263   | 0.7304    | 0.3568 | 0.6594        |
+
+
 
 ## CatBoost Classifier
 
