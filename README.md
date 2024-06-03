@@ -17,6 +17,22 @@ This project explores the use of AI/ML techniques in rainfall prediction by anal
 - **Timely Forecasting**: AI/ML models process large datasets quickly, enabling timely rainfall forecasts.
 - **Scalability**: The models can handle large datasets, making them scalable for different regions and time periods.
 - **Cost-Effective**: The models require minimal physical infrastructure and can be implemented using cloud-based services.
+- ![Page_Home](https://github.com/Rutiktorambe/Rainfall-Prediction/assets/114429614/e6c71ca2-5ee9-497c-8586-e4ee4c36bc9c)
+
+
+## Screenshots
+### HomePage
+![Page_Home](https://github.com/Rutiktorambe/Rainfall-Prediction/assets/114429614/e6c71ca2-5ee9-497c-8586-e4ee4c36bc9c)
+
+### InputPage
+![Page_2](https://github.com/Rutiktorambe/Rainfall-Prediction/assets/114429614/ace44663-1166-4c7b-9292-c6cc9ae8d424)
+
+### ResultPage
+- Rainly  
+![Page_Rainly](https://github.com/Rutiktorambe/Rainfall-Prediction/assets/114429614/4ce8453a-1289-465d-98ec-42c758632059)
+- Sunny
+![Screenshot 2024-06-03 091915](https://github.com/Rutiktorambe/Rainfall-Prediction/assets/114429614/ced83a06-b965-4182-bd93-a857835091e5)
+
 
 ## Dataset
 
