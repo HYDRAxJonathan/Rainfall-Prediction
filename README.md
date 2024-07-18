@@ -139,5 +139,4 @@ To use this project:
    Open your web browser and go to http://localhost:5000
 
 ## Contributors
-- Rutik Jayram Torambe
 - Contributions are welcome! Please open an issue or submit a pull request for any changes.
